@@ -8,7 +8,7 @@
     <img src="https://cp-logo.vercel.app/leetcode/islamarafath315" alt="Leet code rating" />
   </a>
   <a href="https://codeforces.com/profile/islamarafath315">
-    <img src="https://raw.githubusercontent.com/Arafathislam/ab.svg" alt="Leet code rating" />
+    <img src="https://raw.githubusercontent.com/Arafathislam/Django-Ecommerce-Website/blob/main/ecommerce/static/images/rating.svg" alt="Leet code rating" />
   </a>
   <a href="https://stackoverflow.com/users/13854831/arafath-islam">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13854831?color=orange&label=reputation&logo=stackoverflow">
