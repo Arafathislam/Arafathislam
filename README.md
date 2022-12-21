@@ -1,6 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Arafath Islam</h1>
-<h3 align="center">Problem solver and Software developer</h3>
+<h1 align="left">hey there</h1>
+<h3 align="center"hi, i'm Arafath Islam, a passionate self-taught full stack web developer and problem solver from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafathislam&label=Profile%20views&color=0e75b6&style=flat" alt="arafathislam" /> </p>
 
