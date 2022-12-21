@@ -16,15 +16,12 @@
   <a href="https://github.com/sudiptob2?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sudiptob2?color=green&logo=github">
   </a>
-  <a href="https://github.com/sudiptob2/">
-    <img src="https://komarev.com/ghpvc/?username=sudiptob2" alt="visitors" />
+  <a href="https://github.com/Arafathislam/">
+    <img src="https://komarev.com/ghpvc/?username=Arafathislam" alt="visitors" />
   </a>
 
 </p>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arafathislam&label=Profile%20views&color=0e75b6&style=flat" alt="arafathislam" /> </p>
 
 - 📫 Reach me **islamarafath315@gmail.com**
 
