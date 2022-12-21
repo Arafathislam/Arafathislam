@@ -7,7 +7,7 @@
   <a href="https://leetcode.com/islamarafath315/">
     <img src="https://cp-logo.vercel.app/leetcode/islamarafath315" alt="Leet code rating" />
   </a>
-  <a href="https://codeforces.com/profile/islamarafath315.me">
+  <a href="https://codeforces.com/profile/islamarafath315">
     <img src="https://raw.githubusercontent.com/islamarafath315/cf-stats/main/output/rating.svg" alt="Leet code rating" />
   </a>
   <a href="https://stackoverflow.com/users/5921662/sudipto">
