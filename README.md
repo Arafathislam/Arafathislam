@@ -1,8 +1,3 @@
-
-<h3 align="left">hey there</h3>
-<h5 align="left">hi, i'm Arafath Islam, a passionate self-taught full stack web developer and problem solver from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-</h5>
-
 <p align="left">
   <a href="https://leetcode.com/islamarafath315/">
     <img src="https://cp-logo.vercel.app/leetcode/islamarafath315" alt="Leet code rating" />
@@ -21,6 +16,12 @@
   </a>
 
 </p>
+
+<h3 align="left">hey there</h3>
+<h5 align="left">hi, i'm Arafath Islam, a passionate self-taught full stack web developer and problem solver from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+</h5>
+
+
 
 
 - 📫 Reach me **islamarafath315@gmail.com**
