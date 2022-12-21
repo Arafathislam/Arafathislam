@@ -7,8 +7,8 @@
   <a href="https://leetcode.com/islamarafath315/">
     <img src="https://cp-logo.vercel.app/leetcode/islamarafath315" alt="Leet code rating" />
   </a>
-  <a href="https://codeforces.com/profile/sudipto.me">
-    <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
+  <a href="https://codeforces.com/profile/islamarafath315.me">
+    <img src="https://raw.githubusercontent.com/islamarafath315/cf-stats/main/output/rating.svg" alt="Leet code rating" />
   </a>
   <a href="https://stackoverflow.com/users/5921662/sudipto">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
