@@ -1,8 +1,28 @@
 
 <h3 align="left">hey there</h3>
 <h5 align="left">hi, i'm Arafath Islam, a passionate self-taught full stack web developer and problem solver from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
 </h5>
+
+<p align="left">
+  <a href="https://leetcode.com/sudiptob2/">
+    <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
+  </a>
+  <a href="https://codeforces.com/profile/sudipto.me">
+    <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
+  </a>
+  <a href="https://stackoverflow.com/users/5921662/sudipto">
+    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://github.com/sudiptob2?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sudiptob2?color=green&logo=github">
+  </a>
+  <a href="https://github.com/sudiptob2/">
+    <img src="https://komarev.com/ghpvc/?username=sudiptob2" alt="visitors" />
+  </a>
+
+</p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafathislam&label=Profile%20views&color=0e75b6&style=flat" alt="arafathislam" /> </p>
 
