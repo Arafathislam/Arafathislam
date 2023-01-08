@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">hey there</h3>
-<h5 align="left">hi, i'm Arafath Islam, a passionate self-taught full stack web developer and problem solver from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+<h5 align="left">hi, i'm Arafath Islam, a passionate self-taught full stack web developer and problem solver from Bangladesh. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 </h5>
 
 
